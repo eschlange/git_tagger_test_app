@@ -38,3 +38,4 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'git_tagger', :git => 'git://github.com/eschlange/git_tagger.git'

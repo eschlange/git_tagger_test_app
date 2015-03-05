@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/eschlange/git_tagger.git
+  revision: caac44475cbbac59c8b3ac711e0440a23184c38e
+  specs:
+    git_tagger (1.0.9)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -108,6 +114,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  git_tagger!
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.9)

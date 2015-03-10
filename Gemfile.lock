@@ -1,8 +1,7 @@
-GIT
-  remote: git://github.com/eschlange/git_tagger.git
-  revision: caac44475cbbac59c8b3ac711e0440a23184c38e
+PATH
+  remote: /Users/ems408/workspace/git_tagger
   specs:
-    git_tagger (1.0.9)
+    git_tagger (1.1.7)
 
 GEM
   remote: https://rubygems.org/

@@ -39,5 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem "git_tagger",
-    path: "https://github.com/eschlange/git_tagger",
+    git: "https://github.com/eschlange/git_tagger",
     tag: "1.1.7"
